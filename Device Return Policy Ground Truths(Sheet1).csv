@@ -1,0 +1,125 @@
+﻿Dataset_id,policy_content_file_name,groundtruth_owner,ground_truth_question,ground_truth_answer,exact_excerpt_from_policy,policy_title
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,When do I need to return BCG IT assets if I'm exiting or transferring?,You must return all BCG‑issued IT assets on or before your Last Working Day (LWD). The policy further specifies that these assets must be handed back to the Local IT Team on your LWD before office closing hours. Meeting this deadline ensures that the exit process related to IT can be completed as expected.,"All BCG IT assets must be returned to the IT team on or before the employee’s Last Working Day (LWD).
+All BCG IT Assets must be returned to the Local IT Team on your Last Working Day before the oPice closing hours.",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,What happens if I don’t return IT assets on time during an exit or transfer?,"If you fail to return BCG IT assets by the required deadline, your IT Exit Clearance may be delayed. The policy explicitly links timely asset return with the completion of IT exit processing, so returning equipment on time is essential.",Failure to return IT assets on time may result in delaying the IT Exit Clearance.,Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,How do I retrieve personal data from my BCG laptop before leaving?,"To retrieve personal data, you must create a folder named “Personal Data” in your OneDrive and share the link with IT and your Line Manager (LM). That folder is strictly for your personal content and must not include any BCG or client files. Your Line Manager has to verify the contents in advance—specifically at least ten days before your Last Working Day. After your Line Manager’s review is complete, the Local IT team will deliver your personal data to your personal email via a secure OneDrive link on your Last Working Day.","Employees who need to retrieve personal data from their BCG laptop must create a folder named ""Personal Data"" on their OneDrive and share the link with IT and LM, under no circumstances should this folder include any BCG or client files.
+The employee’s Line Manager must verify the contents of the ""Personal Data"" folder in advance to the employee’s LWD. This verification ensures that no BCG or client-related data is included in the folder.
+The personal data retrieval needs to be verified by your LM at least 10 days prior to your Last working day.
+Post reviewing of LM, Local IT team will share the data on your personal Email ID via Secure link.
+The Local IT Team would share the One drive link to your personal email id on your Last working day",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,"What should I name the folder for personal data retrieval, and where do I create it?",Create a folder named “Personal Data” in your OneDrive account. This designated folder is the required location for personal data you intend to retrieve as part of the exit process.,"Employees who need to retrieve personal data from their BCG laptop must create a folder named ""Personal Data"" on their OneDrive ...",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,Who needs to receive the OneDrive link to my “Personal Data” folder?,You must share the OneDrive link to your “Personal Data” folder with both IT and your Line Manager. These parties are responsible for verifying and processing the request before the data is shared to your personal email.,… and share the link with IT and LM …,Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,Can I include BCG or client files in the “Personal Data” folder I share with IT?,No. The folder is strictly limited to your personal information. The policy states that under no circumstances should the “Personal Data” folder include any BCG or client files.,… under no circumstances should this folder include any BCG or client files.,Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,"What does my Line Manager need to do with the “Personal Data” folder, and when must this happen?",Your Line Manager must verify the contents of your “Personal Data” folder before your Last Working Day to confirm that no BCG or client data is included. The policy also sets a timing requirement: the verification must occur at least ten days prior to your Last Working Day.,"The employee’s Line Manager must verify the contents of the ""Personal Data"" folder in advance to the employee’s LWD. This verification ensures that no BCG or client-related data is included in the folder.
+The personal data retrieval needs to be verified by your LM at least 10 days prior to your Last working day.",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,How and when will my verified personal data be delivered to my personal email?,"Once your Line Manager has completed the review, the Local IT team will share your personal data via a secure link to your personal email. The policy further notes that the OneDrive link will be provided on your Last Working Day.","Post reviewing of LM, Local IT team will share the data on your personal Email ID via Secure link.
+The Local IT Team would share the One drive link to your personal email id on your Last working day",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,What should I do with business‑related data like emails and files before I leave?,"Before your Last Working Day, you must ensure that all business‑related data—such as emails, files, and other materials—is properly handed over to your Line Manager or the colleagues they designate. This handover should be completed in advance of your departure.","Prior to the LWD, employees must ensure that all business -related data, including emails, files, and other materials, are properly handed over to their Line Manager or designated colleagues.",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,Who should receive my work in progress and other important documents before my exit?,"You are responsible for ensuring that all work in progress, as well as any important documents and communications, are transferred to your successors or your team members.","Employees are responsible for ensuring that all work in progress, as well as any important documents and communications, are transferred to their successors or team members.",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,Does this policy apply to both exits and internal transfers?,"Yes. The policy explicitly covers both scenarios as indicated by its title, “Device Return Policy on Exit or Transfer.” Accordingly, the same rules for asset return and data handling apply when you leave BCG or transfer internally.",Device Return Policy on Exit or Transfer,Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,What does the abbreviation “LWD” stand for in this policy?,“LWD” stands for “Last Working Day.” The policy uses this abbreviation when setting deadlines and timing requirements.,Last Working Day (LWD).,Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,Do I need to return my assets before the office closes on my Last Working Day?,"Yes. You must return your IT assets to the Local IT Team on your Last Working Day before office closing hours, as required by the policy.",All BCG IT Assets must be returned to the Local IT Team on your Last Working Day before the oPice closing hours.,Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,To whom exactly do I return my IT assets—IT or Local IT?,"The policy states that all IT assets must be returned to the IT team on or before your Last Working Day, and also specifies that the return is to the Local IT Team on your Last Working Day before office closing hours. Follow your location’s Local IT instructions to ensure compliance with both requirements.","All BCG IT assets must be returned to the IT team on or before the employee’s Last Working Day (LWD).
+All BCG IT Assets must be returned to the Local IT Team on your Last Working Day before the oPice closing hours.",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,What is the purpose of the Line Manager’s verification of the “Personal Data” folder?,"The Line Manager’s verification is to ensure that the “Personal Data” folder does not include any BCG or client‑related data. After this verification, the Local IT team proceeds to share your personal data to your personal email via a secure link.","This verification ensures that no BCG or client-related data is included in the folder.
+Post reviewing of LM, Local IT team will share the data on your personal Email ID via Secure link.",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,"If my Last Working Day is approaching, when should my Line Manager complete the review of my “Personal Data” folder?","Your Line Manager must complete the verification at least ten days prior to your Last Working Day, as required by the policy.",The personal data retrieval needs to be verified by your LM at least 10 days prior to your Last working day.,Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,What is the approved channel for receiving my personal data at the end of the process?,Your personal data is delivered to your personal email via a secure link from the Local IT team. The policy also notes that the OneDrive link is sent on your Last Working Day.,"Post reviewing of LM, Local IT team will share the data on your personal Email ID via Secure link.
+The Local IT Team would share the One drive link to your personal email id on your Last working day",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,What are my responsibilities for business data during the handover before I leave?,"You are responsible for ensuring that all business‑related data—including emails, files, and other materials—is properly handed over to your Line Manager or designated colleagues before your Last Working Day. In addition, any work in progress, important documents, and key communications must be transferred to your successors or team members.","Prior to the LWD, employees must ensure that all business -related data, including emails, files, and other materials, are properly handed over to their Line Manager or designated colleagues.
+Employees are responsible for ensuring that all work in progress, as well as any important documents and communications, are transferred to their successors or team members.",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,What examples of business‑related materials does the policy call out for handover?,"The policy explicitly lists emails, files, and other materials as business‑related data that must be handed over prior to the Last Working Day. It also highlights work in progress, important documents, and communications as items that must be transferred to successors or team members.","… including emails, files, and other materials, are properly handed over to their Line Manager or designated colleagues.
+Employees are responsible for ensuring that all work in progress, as well as any important documents and communications, are transferred to their successors or team members.",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,What steps must occur before Local IT shares a link to my personal data?,"Your Line Manager must verify the contents of your “Personal Data” OneDrive folder—specifically ensuring that no BCG or client data is included—and this verification must be completed at least ten days before your Last Working Day. Following that review, Local IT will send a secure OneDrive link to your personal email on your Last Working Day.","The employee’s Line Manager must verify the contents of the ""Personal Data"" folder in advance to the employee’s LWD. This verification ensures that no BCG or client-related data is included in the folder.
+The personal data retrieval needs to be verified by your LM at least 10 days prior to your Last working day.
+The Local IT Team would share the One drive link to your personal email id on your Last working day",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,"Under the policy’s “Transfer of Verified Personal Data,” what must I do with business information before I leave?","Before your Last Working Day, ensure that all business‑related data—including emails, files, and other materials—is handed over to your Line Manager or designated colleagues. You must also transfer any work in progress, important documents, and communications to your successors or team members.","Transfer of Verified Personal Data:
+• Prior to the LWD, employees must ensure that all business -related data, including emails, files, and other materials, are properly handed over to their Line Manager or designated colleagues.
+• Employees are responsible for ensuring that all work in progress, as well as any important documents and communications, are transferred to their successors or team members.",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,"If my Last Working Day is very soon, do I still need the Line Manager verification in advance?",Yes. The policy requires that the personal data retrieval be verified by your Line Manager at least ten days prior to your Last Working Day.,The personal data retrieval needs to be verified by your LM at least 10 days prior to your Last working day.,Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,"Who shares my personal data, and when is it shared?","After your Line Manager’s review, the Local IT team shares your personal data via a secure link to your personal email. According to the policy, the OneDrive link is shared on your Last Working Day.","Post reviewing of LM, Local IT team will share the data on your personal Email ID via Secure link.
+The Local IT Team would share the One drive link to your personal email id on your Last working day",Device Return Policy on Exit or Transfer
+Device_Return_Policy_gt_v1,Device Return Policy on Exit or Transfer,Vaibhav Srivastava,"What content must never appear in my “Personal Data” folder, even if it would be useful for my records?","BCG or client files must never be included in your “Personal Data” folder. This restriction is enforced through the Line Manager’s verification, which confirms that the folder contains no BCG or client‑related data.","… under no circumstances should this folder include any BCG or client files.
+This verification ensures that no BCG or client-related data is included in the folder.",Device Return Policy on Exit or Transfer
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
